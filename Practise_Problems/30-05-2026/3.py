@@ -1,0 +1,1 @@
+print("My\tname\tis\tdemian\nI\tam\21\tyears\told")
